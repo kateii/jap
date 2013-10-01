@@ -22,6 +22,7 @@
 
 ###人称代词
 
+<table>
 <tr><td>人称</td> <td> 单数</td> <td>复数</td>
 </tr>
 
@@ -50,11 +51,11 @@
 </tr>
 <tr><td></td><td>どのかた</td><td>どのかたたち</td>
 </tr>
-<tr><td></td>どなた</td><td>どなたたち</td>
+<tr><td><td>どなた</td><td>どなたたち</td>
 </tr>
 <tr><td></td><td>だれ</td><td>だれたち</td>
-<tr>
-
+</tr>
+</table>
 
 
 
